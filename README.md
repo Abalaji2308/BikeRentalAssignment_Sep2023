@@ -1,4 +1,4 @@
-# Boombikes-LinearRegression-Assignment 
+# LinearRegression-Assignment 
 > Linear Regression performed on the Boombikes bike rental dataset as part of an assignment for certificate program in Machine Learning & Deep Learning from IIIT Bangalore. 
 
 
