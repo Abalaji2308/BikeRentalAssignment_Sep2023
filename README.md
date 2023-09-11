@@ -4,8 +4,9 @@
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
+* [Contact](#Contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
