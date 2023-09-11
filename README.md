@@ -39,7 +39,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@BalajiArumugam] - feel free to contact me!
+[@Itzbalajiarumugam@gmail.com]
 
 
 <!-- Optional -->
